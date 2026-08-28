@@ -1,4 +1,4 @@
-name: RDP
+name: RDP Tailscale
 on:
   workflow_dispatch:
 jobs:
